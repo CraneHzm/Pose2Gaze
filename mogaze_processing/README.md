@@ -21,17 +21,17 @@ Step 7: Set 'data_dir' in 'mogaze_gaze_body_motion_intervals.py' and run it to a
 
 ```bibtex
 @article{hu24_pose2gaze,
-		author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
-		journal={IEEE Transactions on Visualization and Computer Graphics}, 
-		title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
-		year={2024}}
+	author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
+	journal={IEEE Transactions on Visualization and Computer Graphics}, 
+	title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
+	year={2024}}
 	
 @article{kratzer2020mogaze,
-		title={MoGaze: A dataset of full-body motions that includes workspace geometry and eye-gaze},
-		author={Kratzer, Philipp and Bihlmaier, Simon and Midlagajni, Niteesh Balachandra and Prakash, Rohit and Toussaint, Marc and Mainprice, Jim},
-		journal={IEEE Robotics and Automation Letters},
-		volume={6},
-		number={2},
-		pages={367--373},
-		year={2020}}
+	title={MoGaze: A dataset of full-body motions that includes workspace geometry and eye-gaze},
+	author={Kratzer, Philipp and Bihlmaier, Simon and Midlagajni, Niteesh Balachandra and Prakash, Rohit and Toussaint, Marc and Mainprice, Jim},
+	journal={IEEE Robotics and Automation Letters},
+	volume={6},
+	number={2},
+	pages={367--373},
+	year={2020}}
 ```

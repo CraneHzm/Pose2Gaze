@@ -25,15 +25,15 @@ Step 8: Set 'data_dir' in 'adt_gaze_body_motion_intervals.py' and run it to anal
 
 ```bibtex
 @article{hu24_pose2gaze,
-		author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
-		journal={IEEE Transactions on Visualization and Computer Graphics}, 
-		title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
-		year={2024}}
+	author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
+	journal={IEEE Transactions on Visualization and Computer Graphics}, 
+	title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
+	year={2024}}
 			
 @inproceedings{pan2023aria,
-		title={Aria digital twin: A new benchmark dataset for egocentric 3d machine perception},
-		author={Pan, Xiaqing and Charron, Nicholas and Yang, Yongqian and Peters, Scott and Whelan, Thomas and Kong, Chen and Parkhi, Omkar and Newcombe, Richard and Ren, Yuheng Carl},
-		booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-		pages={20133--20143},
-		year={2023}}
+	title={Aria digital twin: A new benchmark dataset for egocentric 3d machine perception},
+	author={Pan, Xiaqing and Charron, Nicholas and Yang, Yongqian and Peters, Scott and Whelan, Thomas and Kong, Chen and Parkhi, Omkar and Newcombe, Richard and Ren, Yuheng Carl},
+	booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+	pages={20133--20143},
+	year={2023}}
 ```
