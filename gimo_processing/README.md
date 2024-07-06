@@ -21,14 +21,14 @@ Step 7: Set 'data_dir' in 'gimo_gaze_body_motion_intervals.py' and run it to ana
 
 ```bibtex
 @article{hu24_pose2gaze,
-	author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
-	journal={IEEE Transactions on Visualization and Computer Graphics}, 
-	title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
-	year={2024}}
+		author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
+		journal={IEEE Transactions on Visualization and Computer Graphics}, 
+		title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
+		year={2024}}
 			
 @inproceedings{zheng2022gimo,
-	title={GIMO: Gaze-informed human motion prediction in context},
-	author={Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J},
-	booktitle={Proceedings of the 2022 European Conference on Computer Vision},
-	year={2022}}
+		title={GIMO: Gaze-informed human motion prediction in context},
+		author={Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J},
+		booktitle={Proceedings of the 2022 European Conference on Computer Vision},
+		year={2022}}
 ```
