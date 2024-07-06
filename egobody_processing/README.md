@@ -28,13 +28,11 @@ Step 9: Set 'data_dir' in 'egobody_gaze_two_body_motion_intervals.py' and run it
 	author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
-	year={2024}
-}
+	year={2024}}
 
 @inproceedings{zhang2022egobody,
 	title={EgoBody: Human body shape, motion and social interactions from head-mounted devices},
 	author={Zhang, Siwei and Ma, Qianli and Zhang, Yan and Qian, Zhiyin and Pollefeys, Marc and Bogo, Federica and Tang, Siyu},
 	booktitle={Proceedings of the 2022 European Conference on Computer Vision},
-	year={2022}
-}
+	year={2022}}
 ```

@@ -51,6 +51,5 @@ Step 6: Set 'data_dir' and 'cuda_idx' in 'train_adt_xx.sh' (xx for past, present
             author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
             journal={IEEE Transactions on Visualization and Computer Graphics}, 
             title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
-            year={2024}
-}
+            year={2024}}
 ```
