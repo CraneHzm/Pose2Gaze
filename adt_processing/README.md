@@ -18,7 +18,7 @@ Step 6: Set 'data_dir' in 'adt_gaze_body_motion_intervals.py' and run it to anal
 ## Citations
 
 ```bibtex
-@article{hu24_pose2gaze,
+@article{hu24pose2gaze,
 	author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses},
