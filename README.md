@@ -14,7 +14,7 @@ These results underline the significant information content available in eye-bod
 ```	
 
 
-## Environments:
+## Environment:
 Ubuntu 22.04
 python 3.8+
 pytorch 1.8.1
@@ -24,7 +24,7 @@ cudatoolkit 11.1
 ## Usage:
 Step 1: Create the environment
 ```
-conda env create -f ./environments/pose2gaze.yaml -n pose2gaze
+conda env create -f ./environment/pose2gaze.yaml -n pose2gaze
 conda activate pose2gaze
 ```
 
